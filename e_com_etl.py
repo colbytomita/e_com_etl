@@ -3,3 +3,6 @@ import json
 from datetime import datetime
 import s3fs
 from dotenv import load_dotenv
+import kaggle
+
+# Load environment variables
